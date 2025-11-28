@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joelodufu
-- 👀 I’m interested in remote jobs
-- 🌱 I’m a continuous learner
-- 💞️ I’m looking to collaborate on Nodejs APIs and GraphQL
+- 💭⛅ Cloud Engineer. Certified Azure Architect Designer 
+- 📲📱 Mobile App Developer: Certified Android  Developer
+- 🗼🗼 System Designer
 - 📫 How to reach me {"Phone": "+2348085040146", "email":"joel.odufu@gmail.com", "Facebook":"Joel.odufu.ekowoicho.lee"}
 
 <!---
